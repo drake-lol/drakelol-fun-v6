@@ -1,0 +1,26 @@
+html {
+    font-family: 'Figtree', 'sans-serif';
+  }
+  
+  body {
+    background-image: url('/assets/images/bggradient_darker.png');
+    background-size: 100vw 100vh;
+  }
+
+  .title {
+    color: #ffffff;
+    font-size: 10vh;
+    padding-left: 4.58vw;
+    padding-top: 3.3vh;
+    font-weight: bold;
+    position: relative;
+  }
+
+  .infoblurb1 {
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    width: 40vw;
+    height: 130%;
+    margin: 20px 0;
+  }

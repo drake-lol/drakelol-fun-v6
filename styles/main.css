@@ -12,8 +12,7 @@ body {
   font-size: 10vh;
   position: fixed;
   font-weight: bold;
-  left: 5vw;
-  top: 5vw;
+  padding: 5vw;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
