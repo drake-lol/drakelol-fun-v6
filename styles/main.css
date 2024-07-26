@@ -66,11 +66,11 @@ body {
   display: table-row;
   vertical-align: middle;
   background-color: #ff000000;
-  transition: 300ms;
+  transition: 200ms;
 }
 
 .link:hover {
   height: 20%;
   font-size: 7vh;
-  transition: 300ms;
+  transition: 200ms;
 }
